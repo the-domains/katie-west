@@ -1,6 +1,6 @@
 name: Katie West
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.62479
 typography_spectrum: 0.31491
 title: Bodies and Words
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6236419905908406
+  brandStrength: 0.5
   lightness: 0.8332639241125435
-  saturation: 0.18681814661249518
+  saturation: 0.125
   rhythmicContrast: 0.8727690654341131
 purpose: []
