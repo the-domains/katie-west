@@ -1,0 +1,28 @@
+name: Katie West
+favicon: null
+layout_spectrum: 0.3695109623949975
+typography_spectrum: 0.08459306065924466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6236419905908406
+  lightness: 0.8332639241125435
+  saturation: 0.18681814661249518
+  rhythmicContrast: 0.8727690654341131
+purpose: []
