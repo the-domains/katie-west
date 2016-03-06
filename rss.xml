@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Katie West]]></title>
-        <description><![CDATA[Katie West]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Bodies and Words]]></title>
+        <description><![CDATA[Bodies and Words]]></description>
+        <link>https://thegrid.ai/katie-west/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 20:34:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 20:46:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/katie-west/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12be9d6f-b4c6-4b6c-b5fc-9ac6d0111272.jpg">]]></description>
+            <link>https://thegrid.ai/katie-west/1b8fac69-fcc0-4d10-8258-1f0ed8b5865e/index.html</link>
+            <guid isPermaLink="false">1b8fac69-fcc0-4d10-8258-1f0ed8b5865e</guid>
+            <pubDate>Sun, 06 Mar 2016 20:45:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3f4f04e-4547-47f1-8eee-4e94cb98e22a.jpg">]]></description>
-            <link>undefinedadc4f536-96ff-4ec9-bf5f-d5fa1629ca6f/index.html</link>
+            <link>https://thegrid.ai/katie-west/adc4f536-96ff-4ec9-bf5f-d5fa1629ca6f/index.html</link>
             <guid isPermaLink="false">adc4f536-96ff-4ec9-bf5f-d5fa1629ca6f</guid>
             <pubDate>Sun, 06 Mar 2016 20:33:02 GMT</pubDate>
         </item>
